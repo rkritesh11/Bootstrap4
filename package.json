@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "bootstrap-project1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rkritesh11/Bootstrap4/issues"
   },
-  "homepage": "https://github.com/rkritesh11/Bootstrap4#readme"
+  "homepage": "https://github.com/rkritesh11/Bootstrap4#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
